@@ -8,7 +8,7 @@
  ▒█▒█░   ░█░
  ░▀▄▀░   ▄█▄
  
- 𝙌𝙪𝙚𝙚𝙣 𝙀𝙡𝙞𝙨𝙖 𝙈𝘿 𝘽𝙮 𝘿𝙖𝙧𝙠 𝙈𝙖𝙠𝙚𝙧 
+ ᴄʟ|ᴡᴀʟᴋᴇʀ 𝙈𝘿 𝘽𝙮 Chathura Lakshan 
  𝙋𝙪𝙗𝙡𝙞𝙘 𝘿𝙖𝙩𝙚 - 2022 / 07 / 03 
  𝙏𝙝𝙖𝙣𝙠𝙨 𝙏𝙤 𝙎𝙘𝙧𝙞𝙥𝙩 𝙁𝙧𝙤 𝙂𝙤𝙟𝙤 𝙎𝙖𝙩𝙤𝙧𝙪
  
@@ -32,14 +32,14 @@ global.APIKeys = {
 }
 
 //other
-global.owner = ['94715166712'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
-global.pemilik = ['94715166712'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['94715166712'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
-global.pengguna = 'Dark Maker' // Your name ඔබේ නම 
-global.botnma = '💃 𝐐𝐮𝐞𝐞𝐧 𝐄𝐥𝐢𝐬𝐚 𝐁𝐨𝐭 💃' // Your bot name , ඔබගෙ බොට්ගේ නම 
-global.ownernma = '𝓓𝓪𝓻𝓴 𝓜𝓪𝓴𝓮𝓻' //ownernama,ownername
-global.packname = 'Queen Elisa Sticker' // Sticker package name 
-global.author = 'Dark Maker' // Sticker Autor name 
+global.owner = ['94786047045'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
+global.pemilik = ['94786047045'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.premium = ['94786047045'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.pengguna = 'Chathura Lakshan' // Your name ඔබේ නම 
+global.botnma = 'ᴄʟ|ᴡᴀʟᴋᴇʀ' // Your bot name , ඔබගෙ බොට්ගේ නම 
+global.ownernma = 'Chathura Lakshan' //ownernama,ownername
+global.packname = 'ᴄʟ|ᴡᴀʟᴋᴇʀ Sticker' // Sticker package name 
+global.author = 'ᴄʟ|ᴡᴀʟᴋᴇʀ' // Sticker Autor name 
 global.sessionName = 'session'
 global.prefa = ['#','!','/',''] 
 global.sp = '🔵'
